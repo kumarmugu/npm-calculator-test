@@ -1,0 +1,25 @@
+{
+  "name": "npm-calculator-test",
+  "version": "1.0.0",
+  "description": "This is a demo npm-calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node specs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarmugu/npm-calculator-test.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Mugu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kumarmugu/npm-calculator-test/issues"
+  },
+  "homepage": "https://github.com/kumarmugu/npm-calculator-test#readme",
+  "devDependencies": {
+    "jasmine-node": "~1.13.1"
+  }
+}
