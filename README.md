@@ -1,2 +1,2 @@
 # npm-calculator-test
-This is to test the npm repository
+This is to sample node-module to test the npm repository
